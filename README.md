@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TG Nick</h1>
 <h3 align="center">A passionate frontend developer from The USA</h3>
 
-- 🔭 I’m currently working on EchoOGFN)
+- 🔭 I’m currently working on EchoMP)
 
 - 🤝 I’m looking for help with nothing)
 
