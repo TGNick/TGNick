@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm TG Nick</h1>
+<h1 align="center">Hi 👋, I'm TG Nick</h1> 
+aka .tgnick on Discord erm 
 <h3 align="center">A passionate backend developer from The USA</h3>
 
 - 🔭 I’m currently working on Echo)
